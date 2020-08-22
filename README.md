@@ -10,9 +10,11 @@ Inspired by Reddit's modmail system.
 * **[🛠️ Setting up the bot](docs/setup.md)**
 * [📝 Configuration](docs/configuration.md)
 * [🤖 Commands](docs/commands.md)
+* [📋 Snippets](docs/snippets.md)
 * [🧩 Plugins](docs/plugins.md)
 * [🙋 Frequently Asked Questions](docs/faq.md)
 * [Release notes](CHANGELOG.md)
+* [**Community Guides & Resources**](https://github.com/Dragory/modmailbot-community-resources)
 
 ## Support server
 If you need help with setting up the bot or would like to discuss other things related to it, join the support server on Discord here:
